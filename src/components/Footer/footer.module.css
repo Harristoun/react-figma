@@ -1,0 +1,12 @@
+.footer {
+   margin-top: 50%;
+   margin-left: 25%;
+}
+.Fmenu {
+    display: flex;
+    justify-content: center;
+    font-family: 'Gilroy-Regular', sans-serif;
+    text-decoration: none;
+    line-height: 35px;
+    color: #b85f0bdb
+  }
